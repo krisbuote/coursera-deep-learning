@@ -1,3 +1,3 @@
-# Coursera Deep Learning Specialization: Sequence Models
+# Coursera Deep Learning Specialization
 
-This repository contains my homework assignments for the Sequence Models Coursera specialization.
+This repository contains my programming assignments for the Coursera Deep Learning specialization.
